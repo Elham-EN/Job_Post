@@ -1,0 +1,205 @@
+body {
+  margin-left: 20px;
+  font-size: 1.3rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+div {
+  padding-top: 25px;
+}
+
+.div1 input[type="text"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div1 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div2 input[type="text"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div2 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div4 input[type="text"] {
+  width: 30%;
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div4 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div3 textarea {
+  width: 30%;
+  height: 100px;
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div3 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div5 input[type="radio"] {
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div5 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div5 span {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div6 input[type="radio"] {
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div6 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div6 span {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div7 input[type="checkbox"] {
+  padding: 12px 20px;
+  margin-left: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+
+.div7 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div7 span {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div8 label {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div8 span {
+  display: inline-block;
+  text-align: left;
+  width: 150px;
+  margin-right: 30px;
+}
+
+.div8 select {
+  width: 250px;
+  padding: 10px;
+}
+
+button {
+  padding: 10px;
+  width: 150px;
+  margin-top: 50px;
+  margin-right: 50px;
+  font-size: 1rem;
+}
+
+.bg_danger {
+  background-color: crimson;
+  color: white;
+  width: 15%;
+  padding: 5px;
+  text-align: center;
+}
+
+.bg_danger_2 {
+  background-color: crimson;
+  color: white;
+  width: 45%;
+  padding: 5px;
+  text-align: center;
+}
+
+.bg_success {
+  background-color: green;
+  color: white;
+  width: 45%;
+  padding: 5px;
+  text-align: center;
+}
